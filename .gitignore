@@ -21,3 +21,4 @@ showfont
 
 x64/
 .vs/
+*.user
